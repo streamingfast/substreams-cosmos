@@ -1,0 +1,15 @@
+specVersion: v0.1.0
+package:
+  name: cosmos
+  version: v0.1.13
+  url: https://github.com/streamingfast/substreams-cosmos
+  image: ./cosmos.png
+  doc: |
+    These substream modules is bundling lib and proto files descriptor for Cosmos chain 
+    
+
+network: cosmos
+
+protobuf:
+  buf_build:
+    - buf.build/streamingfast/firehose-cosmos
