@@ -1,7 +1,7 @@
 specVersion: v0.1.0
 package:
   name: cosmos
-  version: v0.1.13
+  version: v0.1.0
   url: https://github.com/streamingfast/substreams-cosmos
   image: ./cosmos.png
   doc: |
