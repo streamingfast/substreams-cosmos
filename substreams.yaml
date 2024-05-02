@@ -11,5 +11,5 @@ package:
 network: cosmos
 
 protobuf:
-  buf_build:
+  descriptorSets:
     - buf.build/streamingfast/firehose-cosmos
